@@ -12,6 +12,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 - [Memory &amp; state](#memory--state)
 - [Retrieval (RAG)](#retrieval-rag)
 - [Evaluation &amp; testing](#evaluation--testing)
+- [Guardrails &amp; safety](#guardrails--safety)
 - [Observability &amp; tracing](#observability--tracing)
 - [Tooling &amp; protocols](#tooling--protocols)
 - [Must-read papers](#must-read-papers)
@@ -55,6 +56,14 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | [DeepEval](https://github.com/confident-ai/deepeval) | Pytest-style assertions for LLM outputs. |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Test, compare, and red-team prompts and models. |
 | [TruLens](https://github.com/truera/trulens) | Feedback functions to score agent behavior. |
+
+## Guardrails &amp; safety
+
+| Project | Notes |
+| --- | --- |
+| [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Validation framework for constraining structured outputs and checking model responses. |
+| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | Conversation guardrails and rails-style policies for LLM applications. |
+| [Llama Guard](https://github.com/meta-llama/PurpleLlama) | Meta's safety classifier family and examples for policy checks around model I/O. |
 
 ## Observability &amp; tracing
 
