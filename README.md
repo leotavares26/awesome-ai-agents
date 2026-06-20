@@ -72,6 +72,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | [Langfuse](https://github.com/langfuse/langfuse) | Open-source tracing, evals, and prompt management. |
 | [Phoenix (Arize)](https://github.com/Arize-ai/phoenix) | OpenTelemetry-based tracing and eval for LLM apps. |
 | [OpenLLMetry](https://github.com/traceloop/openllmetry) | OpenTelemetry instrumentation for LLM stacks. |
+| [ax](https://github.com/Necmttn/ax) | Local-first evidence graph for coding-agent sessions, tool calls, skills, and cost. |
 
 ## Tooling &amp; protocols
 
