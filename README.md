@@ -78,6 +78,8 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | Project | Notes |
 | --- | --- |
 | [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) | Open protocol for connecting models to tools and data. |
+| [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) | Protocol for agent-to-agent communication across frameworks, vendors, and runtimes. |
+| [AG-UI](https://github.com/ag-ui-protocol/ag-ui) | Event protocol for streaming agent state, messages, and tool calls into user interfaces. |
 | [Instructor](https://github.com/567-labs/instructor) | Structured outputs from LLMs via Pydantic. |
 | [LiteLLM](https://github.com/BerriAI/litellm) | One API across 100+ model providers. |
 
