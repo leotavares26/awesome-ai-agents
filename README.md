@@ -24,6 +24,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | --- | --- | --- |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Python / JS | Graph-based orchestration with explicit state. My default for anything stateful or cyclic. |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Python | Lightweight agents, handoffs, and guardrails from OpenAI. |
+| [Google ADK](https://github.com/google/adk-python) | Python / Java | Google's Agent Development Kit: code-first agents, tools, and multi-agent workflows that run anywhere. |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Python | Role-based multi-agent "crews" with a gentle learning curve. |
 | [AutoGen](https://github.com/microsoft/autogen) | Python | Multi-agent conversations and a research-friendly programming model. |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Python / TS | Data framework with strong agent + workflow primitives. |
@@ -91,6 +92,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 - **Generative Agents: Interactive Simulacra of Human Behavior** — Park et al., 2023. Memory, reflection, and planning in a simulated town.
 - **MemGPT: Towards LLMs as Operating Systems** — Packer et al., 2023. Treating context as a managed memory hierarchy.
 - **Voyager: An Open-Ended Embodied Agent with LLMs** — Wang et al., 2023. Skill libraries and lifelong learning.
+- **Gorilla: Large Language Model Connected with Massive APIs** — Patil et al., 2023. Teaching models to call the right API, accurately, at scale.
 - **Tree of Thoughts: Deliberate Problem Solving with LLMs** — Yao et al., 2023.
 
 ## Contributing
