@@ -39,6 +39,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | --- | --- |
 | [Letta (MemGPT)](https://github.com/letta-ai/letta) | Stateful agents with long-term memory and a memory-management OS metaphor. |
 | [Mem0](https://github.com/mem0ai/mem0) | A memory layer you can drop into existing agents. |
+| [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Local-first memory lifecycle for agents: scoped recall, audit trails, forgetting, and consolidation via Rust CLI/TUI and SQLite/FTS. |
 | [Zep](https://github.com/getzep/zep) | Long-term memory + retrieval for conversational agents. |
 
 ## Retrieval (RAG)
