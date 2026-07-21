@@ -58,6 +58,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | [DeepEval](https://github.com/confident-ai/deepeval) | Pytest-style assertions for LLM outputs. |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Test, compare, and red-team prompts and models. |
 | [TruLens](https://github.com/truera/trulens) | Feedback functions to score agent behavior. |
+| [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) | UK AI Safety Institute's eval framework: datasets, solvers, and scorers for grading model and agent behavior, with a built-in log viewer. |
 
 ## Guardrails &amp; safety
 
@@ -96,6 +97,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 - **Voyager: An Open-Ended Embodied Agent with LLMs** — Wang et al., 2023. Skill libraries and lifelong learning.
 - **Gorilla: Large Language Model Connected with Massive APIs** — Patil et al., 2023. Teaching models to call the right API, accurately, at scale.
 - **Tree of Thoughts: Deliberate Problem Solving with LLMs** — Yao et al., 2023.
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** — Yang et al., 2024. The interface an agent acts through often matters more than the model behind it.
 
 ## Contributing
 
