@@ -59,6 +59,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Test, compare, and red-team prompts and models. |
 | [TruLens](https://github.com/truera/trulens) | Feedback functions to score agent behavior. |
 | [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) | UK AI Safety Institute's eval framework: datasets, solvers, and scorers for grading model and agent behavior, with a built-in log viewer. |
+| [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) | Open benchmark for evaluating web agents on realistic everyday tasks across live websites, with reproducible browser-action, network, screenshot, replay, and agent-message traces. ([paper](https://arxiv.org/abs/2604.08523), [project](https://claw-bench.com/)) |
 
 ## Guardrails &amp; safety
 
