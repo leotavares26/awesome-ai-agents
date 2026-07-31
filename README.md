@@ -32,6 +32,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | [DSPy](https://github.com/stanfordnlp/dspy) | Python | Program — don't prompt. Optimizes prompts/weights against metrics. |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C# / Python / Java | Microsoft's SDK for planners and skills. |
 | [Mastra](https://github.com/mastra-ai/mastra) | TypeScript | TS-native framework: agents, workflows, RAG, evals. |
+| [Hivekeep](https://github.com/MarlBurroW/hivekeep) | TypeScript | Self-hosted platform to run a team of specialized agents with persistent memory, a web UI, and Telegram/Slack/Discord/Matrix channels. |
 
 ## Memory &amp; state
 
