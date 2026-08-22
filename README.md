@@ -32,6 +32,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 | [DSPy](https://github.com/stanfordnlp/dspy) | Python | Program — don't prompt. Optimizes prompts/weights against metrics. |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C# / Python / Java | Microsoft's SDK for planners and skills. |
 | [Mastra](https://github.com/mastra-ai/mastra) | TypeScript | TS-native framework: agents, workflows, RAG, evals. |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | TypeScript / Electron | Open-source, local-first desktop app where a Commander coordinates specialist agents through one chat. |
 
 ## Memory &amp; state
 
