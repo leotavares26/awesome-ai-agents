@@ -81,6 +81,7 @@ Curated by [Leo Tavares](https://github.com/leotavares26). Contributions welcome
 
 | Project | Notes |
 | --- | --- |
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. |
 | [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) | Open protocol for connecting models to tools and data. |
 | [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) | Protocol for agent-to-agent communication across frameworks, vendors, and runtimes. |
 | [AG-UI](https://github.com/ag-ui-protocol/ag-ui) | Event protocol for streaming agent state, messages, and tool calls into user interfaces. |
